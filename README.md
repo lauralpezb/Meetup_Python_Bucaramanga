@@ -1,7 +1,7 @@
 # Meetup Python Bucaramanga
 ## Al mal tiempo, buena data. Limpieza de datos con Python
 
-![Limpieza de datos](https://github.com/lauralpezb/DataScienceFem_Retos/blob/main/Imagenes/meetup.jpg)
+![Limpieza de datos](https://github.com/lauralpezb/Meetup_Python_Bucaramanga/blob/main/Imagenes/meetup.jpg)
 
 En este repositorio encontrarás la presentación, los datasets (entrada y salida) y el notebook usado en el meetup.
 
