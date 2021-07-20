@@ -1,5 +1,4 @@
 # Meetup Python Bucaramanga
-## Al mal tiempo, buena data. Limpieza de datos con Python
 
 ![Limpieza de datos](https://github.com/lauralpezb/Meetup_Python_Bucaramanga/blob/main/Imagenes/meetup.jpg)
 
